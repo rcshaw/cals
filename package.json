@@ -1,0 +1,21 @@
+{
+  "name": "cals",
+  "version": "1.0.0",
+  "description": "personal project",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcshaw/cals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcshaw/cals/issues"
+  },
+  "homepage": "https://github.com/rcshaw/cals#readme"
+}
